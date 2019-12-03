@@ -1,0 +1,5 @@
+https://rmarkdown.rstudio.com/
+https://www.markdowntutorial.com/
+https://yihui.org/knitr/
+https://r4ds.had.co.nz/tibbles.html#tibbles-vs.data.frame
+file:///Users/tanya/Desktop/RStudio.app/Contents/Resources/www/docs/keyboard.htm
